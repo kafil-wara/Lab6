@@ -1,0 +1,13 @@
+C:\Users\Kafil\source\repos\LabTask6\LabTask6\obj\Debug\netcoreapp3.1\LabTask6.csprojAssemblyReference.cache
+C:\Users\Kafil\source\repos\LabTask6\LabTask6\obj\Debug\netcoreapp3.1\LabTask6.AssemblyInfoInputs.cache
+C:\Users\Kafil\source\repos\LabTask6\LabTask6\obj\Debug\netcoreapp3.1\LabTask6.AssemblyInfo.cs
+C:\Users\Kafil\source\repos\LabTask6\LabTask6\obj\Debug\netcoreapp3.1\LabTask6.csproj.CoreCompileInputs.cache
+C:\Users\Kafil\source\repos\LabTask6\LabTask6\bin\Debug\netcoreapp3.1\LabTask6.exe
+C:\Users\Kafil\source\repos\LabTask6\LabTask6\bin\Debug\netcoreapp3.1\LabTask6.deps.json
+C:\Users\Kafil\source\repos\LabTask6\LabTask6\bin\Debug\netcoreapp3.1\LabTask6.runtimeconfig.json
+C:\Users\Kafil\source\repos\LabTask6\LabTask6\bin\Debug\netcoreapp3.1\LabTask6.runtimeconfig.dev.json
+C:\Users\Kafil\source\repos\LabTask6\LabTask6\bin\Debug\netcoreapp3.1\LabTask6.dll
+C:\Users\Kafil\source\repos\LabTask6\LabTask6\bin\Debug\netcoreapp3.1\LabTask6.pdb
+C:\Users\Kafil\source\repos\LabTask6\LabTask6\obj\Debug\netcoreapp3.1\LabTask6.dll
+C:\Users\Kafil\source\repos\LabTask6\LabTask6\obj\Debug\netcoreapp3.1\LabTask6.pdb
+C:\Users\Kafil\source\repos\LabTask6\LabTask6\obj\Debug\netcoreapp3.1\LabTask6.genruntimeconfig.cache
